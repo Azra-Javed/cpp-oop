@@ -1,0 +1,9 @@
+-polymorphism is th ability of objects to take on different forms or behve in different ways depending o the context in which they are used.
+
+1. Compile time polymorphism => constructor overloading , function overloading, operator overloading
+2. run time polymorphism  => dyanamic => overriding => ka concepts inheritence mai hota hai
+
+-- function overriding
+Parent & child both contain the same function with different implementation.
+The parent class function is said to be overridden.
+

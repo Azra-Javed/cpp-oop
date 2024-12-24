@@ -1,0 +1,13 @@
+abstraction => hiding all unnecessary details & showing only the important parts
+
+-- implement by using access modifiers
+protected -> inheritence
+
+ABSTRUCT CLASS: => using abstract classes
+
+= abstract classes are used to provide a base class from which other classes can be derived.
+= They cannot be instantiated and are meant to be inherited
+= abstract classes are typically used to define an interface for derived classes
+
+=> es sai koi b object ni bn skta ya other classes k lire blueprint hoti hai
+=> instance => ka mtl hai k object

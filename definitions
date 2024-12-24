@@ -1,0 +1,34 @@
+OBJECTS: => objects are the entities in the real world
+CLASS: => class is like a blueprint of these entities
+
+ACCESS MODIFIERS:
+PRIVATE: data & methods accessible inside class
+PUBLIC: data & methods accessible to everyone
+PROTECTED: data & methods accessible inside class & to its derived class
+
+ENCAPSULATION: => IS wrapping of data & member functions in a single unit called classs.
+
+CONSTRUCTOR:
+special method invoked automatically at time of object creation. Used for initialisation.
+
+- same name as class
+- Constructor doesn't have a return type
+- Only called once (automatically), at object creation
+- Memory allocation happens when constructor is called
+
+TYPES:
+
+1. NON paramatirized
+2. parametarized
+3. copy constructor
+
+THIS: => this is a special pointer in C++ that points to the current object.
+
+... this->prop is same as \*(this).prop
+
+COPY CONSTRUCTOR: => special constructor (default) used to copy properties of one object into another.
+
+- SHALLOW & DEEP COPY:
+  SHALLOW: => a shallow copy of an object copies all of the member values from one object to another.
+
+DEEP: A deep copy, on the other hand, not only copies the member values but also makes copies of any dynamically allocated memory that the members point to.
